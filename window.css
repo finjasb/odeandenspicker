@@ -510,7 +510,7 @@ input[type="radio"]{
 .username:hover {
   background-color: rgb(21, 255, 0);
   color: rgb(0, 0, 0);
-  transform: scale(1.2) translate(10%, 0%);
+  transform: scale(1.4) translate(10%, 0%);
 }
 
 .text-methods {
